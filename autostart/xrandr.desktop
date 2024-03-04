@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=xrandr
+Exec=/usr/bin/xrandr --output DisplayPort-0 --scale 0.66x0.66
+Terminal=false
+Type=Application
